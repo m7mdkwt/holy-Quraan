@@ -3,3 +3,4 @@ Quraan in Arabic version
 Read and listen audio also.
 one file code only and is made by PHP & free API.
 Good Luck.
+My best regards, Mohammed Basim
